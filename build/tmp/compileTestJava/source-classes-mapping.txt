@@ -1,0 +1,2 @@
+com/kumar/spring/boot/SpringBootGradleApplicationTests.java
+ com.kumar.spring.boot.SpringBootGradleApplicationTests
